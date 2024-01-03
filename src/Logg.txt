@@ -1,0 +1,166 @@
+
+October 17. 2022
+   Time: 01:03:39.401802
+You ate 2215.0 out of your daily 2453.0 calorie intake 
+ You ate 99.0g of protein out of your daily 145.0g
+You ate 94.0g of fat out of your daily 65.0g
+You ate 242.0g of carbs of your daily 280.0g
+You ate 94.0g of sugar.
+Creatine is active and was taken
+
+October 13. 2022
+   Time: 14:47:07.963605600
+You ate 938.0 out of your daily 2955.0 calorie intake 
+ You ate 91.0g of protein out of your daily 147.0g
+You ate 14.0g of fat out of your daily 100.0g
+You ate 114.0g of carbs of your daily 460.0g
+You ate 50.0g of sugar.
+Creatine is active and was taken
+
+October 5. 2022
+   Time: 16:51:59.878567300
+You ate 1927.0 out of your daily 2955.0 calorie intake 
+ You ate 91.0g of protein out of your daily 147.0g
+You ate 61.0g of fat out of your daily 100.0g
+You ate 253.0g of carbs of your daily 460.0g
+You ate 90.0g of sugar.
+Creatine is active and was taken
+
+October 4. 2022
+   Time: 19:59:00.819314300
+You ate 1836.0 out of your daily 2955.0 calorie intake 
+ You ate 110.0g of protein out of your daily 147.0g
+You ate 41.0g of fat out of your daily 100.0g
+You ate 245.0g of carbs of your daily 460.0g
+You ate 106.0g of sugar.
+Creatine is active and was taken
+
+September 9. 2022
+   Time: 10:44:46.377242800
+You ate 3455.0 out of your daily 2955.0 calorie intake 
+ You ate 175.0g of protein out of your daily 147.0g
+You ate 122.0g of fat out of your daily 100.0g
+You ate 400.0g of carbs of your daily 460.0g
+You ate 150.0g of sugar.
+Creatine is active and was taken
+
+July 28. 2022
+   Time: 00:04:48.936673500
+You ate 1133.0 out of your daily 2955.0 calorie intake 
+ You ate 78.0g of protein out of your daily 147.0g
+You ate 75.0g of fat out of your daily 100.0g
+You ate 34.0g of carbs of your daily 460.0g
+You ate 19.0g of sugar.
+Creatine NOT taken
+
+May 23. 2022
+   Time: 02:11:54.332153300
+You ate 3042.0 out of your daily 2955.0 calorie intake 
+ You ate 150.0g of protein out of your daily 147.0g
+You ate 56.0g of fat out of your daily 100.0g
+You ate 466.0g of carbs of your daily 460.0g
+You ate 315.0g of sugar.
+
+May 19. 2022
+   Time: 00:08:05.638314200
+You ate 2571.0 out of your daily 2955.0 calorie intake 
+ You ate 149.0g of protein out of your daily 147.0g
+You ate 27.0g of fat out of your daily 100.0g
+You ate 432.0g of carbs of your daily 460.0g
+You ate 145.0g of sugar.
+
+May XX. 2022
+   Time: 00:05:01.868053300
+You ate 1392.0 out of your daily 2955.0 calorie intake 
+ You ate 83.0g of protein out of your daily 147.0g
+You ate 48.0g of fat out of your daily 100.0g
+You ate 151.0g of carbs of your daily 460.0g
+You ate 78.0g of sugar.
+
+May 13. 2022
+   Time: 00:56:21.151943400
+You ate 3368.0 out of your daily 2955.0 calorie intake 
+ You ate 198.0g of protein out of your daily 147.0g
+You ate 93.0g of fat out of your daily 100.0g
+You ate 425.0g of carbs of your daily 460.0g
+You ate 194.0g of sugar.
+
+May 12. 2022
+   Time: 23:26:44.580774100
+You ate 3079.0 out of your daily 2955.0 calorie intake 
+ You ate 176.0g of protein out of your daily 147.0g
+You ate 50.0g of fat out of your daily 100.0g
+You ate 588.0g of carbs of your daily 460.0g
+You ate 182.0g of sugar.
+
+May 9. 2022
+   Time: 23:16:55.805781500
+You ate 3180.0 out of your daily 2955.0 calorie intake 
+ You ate 129.0g of protein out of your daily 147.0g
+You ate 105.0g of fat out of your daily 100.0g
+You ate 417.0g of carbs of your daily 460.0g
+You ate 200.0g of sugar.
+
+May 8. 2022
+   Time: 22:38:37.962815600
+You ate 3511.0 out of your daily 2530.0 calorie intake 
+ You ate 211.0g of protein out of your daily 130.0g
+You ate 93.0g of fat out of your daily 78.0g
+You ate 457.0g of carbs of your daily 452.0g
+You ate 212.0g of sugar.
+
+May 8. 2022
+   Time: 00:32:10.183928
+You ate 2676.0 out of your daily 2530.0 calorie intake 
+ You ate 153.0g of protein out of your daily 130.0g
+You ate 53.0g of fat out of your daily 78.0g
+You ate 385.0g of carbs of your daily 452.0g
+You ate 237.0g of sugar.
+
+May 4. 2022
+   Time: 00:05:30.193906100
+You ate 2948.0 out of your daily 2530.0 calorie intake 
+ You ate 154.0g of protein out of your daily 130.0g
+You ate 45.0g of fat out of your daily 78.0g
+You ate 478.0g of carbs of your daily 452.0g
+You ate 145.0g of sugar.
+
+May 3. 2022
+   Time: 02:43:57.240362300
+You ate 1343.0 out of your daily 2530.0 calorie intake 
+ You ate 91.0g of protein out of your daily 130.0g
+You ate 17.0g of fat out of your daily 78.0g
+You ate 205.0g of carbs of your daily 452.0g
+You ate 157.0g of sugar.
+
+May 2. 2022
+   Time: 01:57:50.930883900
+You ate 2990.0 out of your daily 2530.0 calorie intake 
+ You ate 169.0g of protein out of your daily 130.0g
+You ate 65.0g of fat out of your daily 78.0g
+You ate 420.0g of carbs of your daily 452.0g
+You ate 204.0g of sugar.
+
+May 2. 2022
+   Time: 20:14:56.716811500
+You ate 2222.0 out of your daily 2530.0 calorie intake 
+ You ate 157.0g of protein out of your daily 130.0g
+You ate 59.0g of fat out of your daily 78.0g
+You ate 261.0g of carbs of your daily 452.0g
+You ate 110.0g of sugar.
+
+April 27. 2022
+   Time: 00:24:02.006375500
+You ate 2512.0 out of your daily 2530.0 calorie intake 
+ You ate 166.0g of protein out of your daily 130.0g
+You ate 63.0g of fat out of your daily 78.0g
+You ate 316.0g of carbs of your daily 452.0g
+You ate 189.0g of sugar.
+
+April 26. 2022
+   Time: 00:06:26.711046400
+You ate 2502.0 out of your daily 2530.0 calorie intake 
+ You ate 136.0g of protein out of your daily 130.0g
+You ate 46.0g of fat out of your daily 78.0g
+You ate 380.0g of carbs of your daily 452.0g
+You ate 128.0g of sugar.
